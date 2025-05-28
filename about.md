@@ -4,8 +4,7 @@ layout: about
 short_bio: Hi there this is Arnab
 ---
 
-This is long bio.
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+I'm a student and hobbyist who’s into coding, editing, music, etc. This blog is my space to document the messy, real progress of learning skills, tracking ideas, and working through thoughts that don’t fit anywhere else. You’ll find everything from tech experiments and personal growth to raw notes on guitar, coding, and whatever I’m obsessing over at the moment.
 
 
 [My Github](http://github.com/heyarnab)
